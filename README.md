@@ -12,19 +12,13 @@ I'm **Youngo** — a backend developer in training passionate about building mea
   💬 WeChat: **suguruosako0**
 
 ---
-
 ### Languages I work with
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 
 ---
 
-### GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=youngoing&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youngoing&theme=radical&hide=html,css)
-
----
