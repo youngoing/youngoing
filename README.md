@@ -1,16 +1,20 @@
-### Hi there 👋
-
-I am **Youngo**, a back-end developer in training, who loves to make meaningful things.
-
--  I’m passionate about creating and learning.
--  I’m interested in web development.
--  How to reach me:  
-   📧 **Email**: [dly2356790469@gmail.com](mailto:dly2356790469@gmail.com)  
-   微信: **suguruosako0**
+好的，这是根据你的要求优化后的版本，只保留了个人简介部分，语言更简洁、结构更清晰，适合放在社交媒体或个人页面上。
 
 ---
 
-## Languages
+### Hi there 👋
+
+I'm **Youngo** — a backend developer in training passionate about building meaningful and well-crafted applications.
+
+- 🔭 I love creating, learning, and exploring new technologies.
+- 🌱 Currently deepening my skills in web development and distributed systems.
+- 📫 Reach me at:  
+  📧 [dly2356790469@gmail.com](mailto:dly2356790469@gmail.com)  
+  💬 WeChat: **suguruosako0**
+
+---
+
+### Languages I work with
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
@@ -18,37 +22,10 @@ I am **Youngo**, a back-end developer in training, who loves to make meaningful 
 
 ---
 
-## GitHub Overview
+### GitHub Stats
 
-<img alt="YourGitHub Stats" src="https://github-readme-stats.vercel.app/api?username=youngoing&show_icons=true&theme=radical" />
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=youngoing&show_icons=true&theme=radical)
 
----
-
-## GitHub Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngoing&theme=radical&hide=html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youngoing&theme=radical&hide=html,css)
 
 ---
-## Projects I Completed
-### 1. [Distributed_IM_System](https://github.com/youngoing/Distributed_IM_System)
-A scalable, real-time Instant Messaging (IM) system designed with WebSocket for efficient communication. It supports both group and direct chats, offline message handling, and dynamic load balancing using Nginx and Consul.
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=youngoing&repo=Distributed_IM_System&show_owner=true)](https://github.com/youngoing/Distributed_IM_System)
-
----
-
-### 2. [Blog Project](https://github.com/youngoing/blog)
-A dynamic blog platform built with **Rust** and **JavaScript**. The project features a front-end and back-end separation architecture with single sign-on, real-time blog updates, an interactive table of contents, and a comment system.
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=youngoing&repo=blog&show_owner=true)](https://github.com/youngoing/blog)
-
----
-
-### 3. [Port Proxy](https://github.com/youngoing/port_proxy)
-Port Proxy is a lightweight TCP port forwarding tool written in **Rust**. It enables secure port forwarding between clients and servers, making it ideal for various networking, routing, and proxy scenarios. The tool also supports encryption to protect data during transmission.
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=youngoing&repo=port_proxy&show_owner=true)](https://github.com/youngoing/port_proxy)
-
----
-
-
